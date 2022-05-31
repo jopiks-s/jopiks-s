@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-## I'm
+## I'm ℹ️
 - Misha
 - 17 years old 🧓
 - A 3rd year student at [KKZ] at the Faculty of Software Developer 🏫

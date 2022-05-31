@@ -59,26 +59,20 @@ style="padding-right:10px;">
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## Current employment🧑‍💼

@@ -52,6 +52,9 @@ style="padding-right:10px;">
 <br />
 <br />
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+### Current employment🧑‍💼
+* fsd
+* dafsfs
 
 [KKZ]: https://kkz.net.ua/

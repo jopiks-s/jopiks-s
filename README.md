@@ -51,7 +51,7 @@ style="padding-right:10px;">
 
 <br />
 <br />
-
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [KKZ]: https://kkz.net.ua/

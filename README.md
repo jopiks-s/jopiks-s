@@ -26,7 +26,7 @@
 ## Contacts
 
 <img align="left" alt="Telegram reference" width="200px" src="./img/telegram.png" style="padding-right:10px;">
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ---
 

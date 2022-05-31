@@ -1,10 +1,23 @@
 # Hi there 👋 
 
 # ℹ️`m
+
 - Misha
 - 17 years old 🧓
 - A 3rd year student at [KKZ] at the Faculty of Software Developer 🏫
 - Love computer science 🔭, ride a bicycle 🚲 and eat delicious food😋
+
+
+## Current employment🧑‍💼
+
+- <img align="left" alt="c#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="padding-right:10px;">
+
+![](https://progress-bar.dev/70)
+- **touch typing**
+
+![](https://progress-bar.dev/30)
+
+📅 *Last update*: **31.05.22**
 
 
 ### Languages and Tools:
@@ -51,19 +64,7 @@ style="padding-right:10px;">
 <img align="left" alt="Blender" width="100px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/768px-Blender_logo_no_text.svg.png"
 style="padding-right:10px;">
-<br><br><br><br><br><br><br><br><br><br><br><br>
-
 ---
-
-## Current employment🧑‍💼
-- <img align="left" alt="c#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="padding-right:10px;">
-
-![](https://progress-bar.dev/70)
-- **touch typing**
-
-![](https://progress-bar.dev/30)
-
-📅 *Last update*: **31.05.22**
 
 
 

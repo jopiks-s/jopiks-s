@@ -1,9 +1,10 @@
 # Hi there 👋 
 
-## I'm ℹ️
+# ℹ️`m
 - Misha
 - 17 years old 🧓
 - A 3rd year student at [KKZ] at the Faculty of Software Developer 🏫
+- Love computer science 🔭, ride a bicycle 🚲 and eat delicious food😋
 
 ### Languages and Tools:
 <img align="left" alt="c++" width="100px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="padding-right:10px;">

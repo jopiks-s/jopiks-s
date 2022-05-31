@@ -6,7 +6,8 @@
 - A 3rd year student at [KKZ] at the Faculty of Software Developer 🏫
 - Love computer science 🔭, ride a bicycle 🚲 and eat delicious food😋
 
-### Languages and Tools:
+
+<span style="color:blue">some *blue* text</span>
 <img align="left" alt="c++" width="100px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="padding-right:10px;">
 <img align="left" alt="c#" width="100px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"

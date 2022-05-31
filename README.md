@@ -18,17 +18,14 @@
 ![](https://progress-bar.dev/30)
 
 ## 👷 Work experience
-- Company: Triangulum, Position: Engineer, Term: 11.22 - Current day.
 
----
+- Company: Triangulum <img align="left" alt="c#" width="26px" src="https://www.triangulum.ua/wp-content/uploads/2020/09/newlogo-1.png" style="padding-right:10px;"> , Position: Engineer, Term: 11.22 - Current day.
 
 📅 *Last update*: **31.05.22**
 
 ---
 
 ### ⚙️ Languages and Tools:
-
----
 
 <img align="left" alt="c++" width="100px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="padding-right:10px;">
 <img align="left" alt="c#" width="100px" 

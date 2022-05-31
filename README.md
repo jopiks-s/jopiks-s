@@ -16,7 +16,33 @@ style="padding-right:10px;">
 <img align="left" alt="MySQL" width="100px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"
 style="padding-right:10px;">
-
+<img align="left" alt="MySQL" width="100px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+style="padding-right:10px;">
+<img align="left" alt="MySQL" width="100px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+style="padding-right:10px;">
+<img align="left" alt="MySQL" width="100px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+style="padding-right:10px;">
+<img align="left" alt="MySQL" width="100px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
+style="padding-right:10px;">
+<img align="left" alt="MySQL" width="100px" 
+src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png"
+style="padding-right:10px;">
+<img align="left" alt="MySQL" width="100px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+style="padding-right:10px;">
+<img align="left" alt="MySQL" width="100px" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/800px-Octicons-mark-github.svg.png"
+style="padding-right:10px;">
+<img align="left" alt="MySQL" width="100px" 
+src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg"
+style="padding-right:10px;">
+<img align="left" alt="MySQL" width="100px" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/768px-Blender_logo_no_text.svg.png"
+style="padding-right:10px;">
 
 <br />
 <br />

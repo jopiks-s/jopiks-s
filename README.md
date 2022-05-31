@@ -61,7 +61,7 @@ style="padding-right:10px;">
 
 ![](https://progress-bar.dev/30)
 
-📅*Last update*: **31.05.22**
+📅 *Last update*: **31.05.22**
 
 
 

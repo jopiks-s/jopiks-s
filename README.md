@@ -19,7 +19,7 @@
 
 ## 👷 Work experience
 
-- Company: Triangulum <img align="left" alt="c#" width="26px" src="https://www.triangulum.ua/wp-content/uploads/2020/09/newlogo-1.png" style="padding-right:10px;"> , Position: Engineer, Term: 11.22 - Current day.
+- Company: [Triangulum], Position: Engineer, Term: 11.22 - Current day.
 
 📅 *Last update*: **31.05.22**
 
@@ -71,3 +71,4 @@ style="padding-right:10px;">
 
 
 [KKZ]: https://kkz.net.ua/
+[Triangulum]: https://www.triangulum.ua/

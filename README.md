@@ -54,8 +54,10 @@ style="padding-right:10px;">
 ---
 
 ## Current employment🧑‍💼
-- <img align="left" alt="c#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="padding-right:10px;"> ![](https://progress-bar.dev/70)
-- **touch typing** ![](https://progress-bar.dev/30)
+- <img align="left" alt="c#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="padding-right:10px;"> 
+![](https://progress-bar.dev/70)
+- **touch typing** 
+![](https://progress-bar.dev/30)
 
 📅*Last update*: **31.05.22**
 

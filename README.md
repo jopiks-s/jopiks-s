@@ -51,28 +51,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_t
 style="padding-right:10px;">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 ## Current employment🧑‍💼

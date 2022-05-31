@@ -23,6 +23,10 @@
 
 📅 *Last update*: **31.05.22**
 
+## Contacts
+
+<img align="left" alt="c#" width="26px" src=".img/telegram.png" style="padding-right:10px;">
+
 ---
 
 ### ⚙️ Languages and Tools:

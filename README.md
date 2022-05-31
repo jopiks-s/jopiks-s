@@ -1,5 +1,6 @@
 # Hi there, I'm Misha 👋 
 I am 17 years old
+<br>
 I am a 3rd year student at [KKZ] at the Faculty of Software Developer 🏫
 
 ### Languages and Tools:

@@ -49,7 +49,7 @@ style="padding-right:10px;">
 <img align="left" alt="Blender" width="100px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/768px-Blender_logo_no_text.svg.png"
 style="padding-right:10px;">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ---
 

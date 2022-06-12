@@ -14,6 +14,7 @@
 ![](https://progress-bar.dev/70)
 
 - **Touch Typing ⌨️ **
+
 ![](https://progress-bar.dev/30)
 
 ## 👷 Work experience

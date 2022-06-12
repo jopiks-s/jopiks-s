@@ -1,4 +1,4 @@
- <font size=1> 🌟 Year 2022 </font> 
+ <h1> 🌟 Year 2022 </h1>
 ---
 
 ## 📅 Publish Date: May 31 

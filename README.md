@@ -17,7 +17,6 @@
 
 ![](https://progress-bar.dev/30)
 
----
 [View hisotry]
 
 ## 👷 Work experience

@@ -17,7 +17,7 @@
 
 ![](https://progress-bar.dev/30)
 ##
-[View hisotry]
+[View experience hisotry]
 
 ## 👷 Work experience
 
@@ -78,4 +78,4 @@ style="padding-right:10px;">
 
 [KKZ]: https://kkz.net.ua/
 [Triangulum]: https://www.triangulum.ua/
-[View hisotry]: ./ExperienceHistory.md/
+[View experience hisotry]: ./ExperienceHistory.md/

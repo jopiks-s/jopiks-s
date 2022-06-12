@@ -18,12 +18,15 @@
 ![](https://progress-bar.dev/30)
 ##
 [View experience hisotry]
+##
 
 ## 👷 Work experience
 
 - Company: [Triangulum], Position: Engineer, Term: *11.21 - Current day*.
 
-📅 *Last update*: **May 31, 2022**
+##
+
+📅 *Last update*: ***May 31, 2022***
 
 ## Contacts
 

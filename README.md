@@ -16,7 +16,7 @@
 - Touch Typing ⌨️
 
 ![](https://progress-bar.dev/30)
-##
+
 [View experience hisotry]
 ##
 

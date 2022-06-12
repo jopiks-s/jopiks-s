@@ -14,13 +14,17 @@
 ![](https://progress-bar.dev/70)
 
 - Touch Typing ⌨️
+
 ![](https://progress-bar.dev/30)
+
+---
+[View hisotry]
 
 ## 👷 Work experience
 
 - Company: [Triangulum], Position: Engineer, Term: *11.21 - Current day*.
 
-📅 *Last update*: **31.05.22**
+📅 *Last update*: **May 31, 2022**
 
 ## Contacts
 
@@ -75,3 +79,4 @@ style="padding-right:10px;">
 
 [KKZ]: https://kkz.net.ua/
 [Triangulum]: https://www.triangulum.ua/
+[View hisotry]: ./ExperienceHistory.md/

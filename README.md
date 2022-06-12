@@ -22,7 +22,7 @@
 
 ## 👷 Work experience
 
-- Company: [Triangulum], Position: Engineer, Term: *11.21 - Current day*.
+- Company: [Triangulum], Position: Engineer, Term: *November 21 - Current day*.
 
 ##
 

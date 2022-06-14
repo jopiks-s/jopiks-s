@@ -9,7 +9,7 @@
 - <img align="left" alt="c#" width="26px" src="[https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png](https://github.com/jopiks-s/jopiks-s/raw/main/img/glsl.png)" style="padding-right:10px;">
 ![](https://progress-bar.dev/50)
 
-_Desc_ : [Study practice in college]
+_Desc_ : [Raytracing project]
 
 - Touch Typing ⌨️
 
@@ -30,3 +30,4 @@ _Desc_ : [Study practice in college]
 
 
 [Study practice in college]: https://github.com/jopiks-s/OOP-Practic
+[Raytracing project]: https://github.com/jopiks-s/Path-tracing

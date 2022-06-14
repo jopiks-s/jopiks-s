@@ -87,3 +87,4 @@ style="padding-right:10px;">
 [KKZ]: https://kkz.net.ua/
 [Triangulum]: https://www.triangulum.ua/
 [View experience hisotry]: ./ExperienceHistory.md/
+[Raytracing project]: https://github.com/jopiks-s/Path-tracing

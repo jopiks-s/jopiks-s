@@ -31,7 +31,7 @@ _Desc_ : [Raytracing project]
 
 ##
 
-📅 *Last update*: ***May 31, 2022***
+📅 *Last update*: ***June 22, 2022***
 
 ## Contacts
 

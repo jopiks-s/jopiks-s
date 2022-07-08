@@ -8,7 +8,7 @@
 - Love computer science 🔭, ride a bicycle 🚲 and eat delicious food😋
 
 
-## Studying now🧑‍💼
+## Studying now 📖
 
 - <img align="left" alt="c#" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="padding-right:10px;">
 ![](https://progress-bar.dev/40)

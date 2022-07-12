@@ -13,7 +13,7 @@
 - <img align="left" alt="c#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;">
 ![](https://progress-bar.dev/100)
 
-[View studying hisotry]
+[View studying hisotry](./ExperienceHistory.md/)
 ##
 
 ## 👷 Work experience
@@ -77,5 +77,4 @@ style="padding-right:10px;">
 
 [KKZ]: https://kkz.net.ua/
 [Triangulum]: https://www.triangulum.ua/
-[View experience hisotry]: ./ExperienceHistory.md/
 [Raytracing project]: https://github.com/jopiks-s/Path-tracing

@@ -63,9 +63,6 @@ style="padding-right:10px;">
 <img align="left" alt="git" width="60px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
 style="padding-right:10px;">
-<img align="left" alt="github" width="60px" 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/800px-Octicons-mark-github.svg.png"
-style="padding-right:10px;">
 <img align="left" alt="Unreal Engine 4" width="60px" 
 src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg"
 style="padding-right:10px;">

@@ -10,19 +10,10 @@
 
 ## Studying now 📖
 
-- <img align="left" alt="c#" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="padding-right:10px;">
-![](https://progress-bar.dev/40)
+- <img align="left" alt="c#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;">
+![](https://progress-bar.dev/100)
 
-- <img align="left" alt="c#" width="26px" src="https://github.com/jopiks-s/jopiks-s/raw/main/img/glsl.png" style="padding-right:10px;">
-![](https://progress-bar.dev/50)
-
-_Desc_ : [Raytracing project]
-
-- Touch Typing ⌨️
-
-![](https://progress-bar.dev/10)
-
-[View experience hisotry]
+[View studying hisotry]
 ##
 
 ## 👷 Work experience
@@ -31,7 +22,7 @@ _Desc_ : [Raytracing project]
 
 ##
 
-📅 *Last update*: ***June 22, 2022***
+📅 *Last update*: ***July 12, 2022***
 
 ## Contacts
 

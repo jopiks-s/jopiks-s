@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-# About ℹ️
+## About ℹ️
 
 - 18 years old
 - A 3rd year student at [KKZ] at the Faculty of Software Developer 🏫
@@ -9,10 +9,6 @@
 ## 👷 Work experience
 
 - Company: [Triangulum], Position: Engineer, Term: *November 21 - Current day*.
-
-##
-
-📅 *Last update*: ***Sep 20, 2022***
 
 ## Contacts
 
@@ -60,7 +56,9 @@ style="padding-right:10px;">
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/768px-Blender_logo_no_text.svg.png"
 style="padding-right:10px;">
 
+##
 
+📅 *Last update*: ***Sep 20, 2022***
 
 [KKZ]: https://kkz.net.ua/
 [Triangulum]: https://www.triangulum.ua/

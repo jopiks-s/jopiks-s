@@ -18,7 +18,7 @@
 
 ## ⚙️ Languages and Tools:
 
-<p><a target="_blank" rel="noreferrer">
+<p align="left"><a target="_blank" rel="noreferrer">
 <img align="left" alt="c++" width="40px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="padding-right:10px;">
 </a>
 <img align="left" alt="c#" width="40px" 

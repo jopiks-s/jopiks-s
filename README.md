@@ -1,11 +1,10 @@
 # Hi there 👋 
 
-# ℹ️`m
+# About ℹ️
 
-- Misha
-- 17 years old 🧓
+- 18 years old
 - A 3rd year student at [KKZ] at the Faculty of Software Developer 🏫
-- Love computer science 🔭, ride a bicycle 🚲 and eat delicious food😋
+- **C-137**
 
 
 ## Studying now 📖

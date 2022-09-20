@@ -4,7 +4,7 @@
 
 - 18 years old
 - A 3rd year student at [KKZ] at the Faculty of Software Developer 🏫
-- **C-137**
+- ***C-137***
 
 
 ## Studying now 📖

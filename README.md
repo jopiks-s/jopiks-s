@@ -6,22 +6,13 @@
 - A 3rd year student at [KKZ] at the Faculty of Software Developer 🏫
 - ***C-137***
 
-
-## Studying now 📖
-
-- <img align="left" alt="c#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;">
-![](https://progress-bar.dev/100)
-
-[View studying hisotry](./ExperienceHistory.md/)
-##
-
 ## 👷 Work experience
 
 - Company: [Triangulum], Position: Engineer, Term: *November 21 - Current day*.
 
 ##
 
-📅 *Last update*: ***July 12, 2022***
+📅 *Last update*: ***Sep 20, 2022***
 
 ## Contacts
 

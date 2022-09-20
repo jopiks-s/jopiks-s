@@ -18,7 +18,7 @@
 
 ## ⚙️ Languages and Tools:
 
-<a target="_blank" rel="noreferrer">
+<p><a target="_blank" rel="noreferrer">
 <img align="left" alt="c++" width="40px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="padding-right:10px;">
 </a>
 <img align="left" alt="c#" width="40px" 
@@ -56,9 +56,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg"
 style="padding-right:10px;">
 <img align="left" alt="Blender" width="40px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/768px-Blender_logo_no_text.svg.png"
-style="padding-right:10px;">
+style="padding-right:10px;"></p>
 
----
 
 📅 *Last update*: ***Sep 20, 2022***
 

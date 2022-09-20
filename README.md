@@ -16,7 +16,7 @@
 
 ---
 
-### ⚙️ Languages and Tools:
+## ⚙️ Languages and Tools:
 
 <img align="left" alt="c++" width="60px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="padding-right:10px;">
 <img align="left" alt="c#" width="60px" 
@@ -56,9 +56,11 @@ style="padding-right:10px;">
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/768px-Blender_logo_no_text.svg.png"
 style="padding-right:10px;">
 
-##
+---
+
 
 📅 *Last update*: ***Sep 20, 2022***
+
 
 [KKZ]: https://kkz.net.ua/
 [Triangulum]: https://www.triangulum.ua/
